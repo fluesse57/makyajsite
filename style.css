@@ -1,0 +1,50 @@
+.resimslider{
+    height: 400px;
+}
+body{
+    padding-top: 50px;
+    font-family:  'Raleway', sans-serif;
+}
+    
+.hakkimizda{
+    background: #f2f2f2;
+}
+.ayrac{
+    border: none;
+    border-top: 3px solid #b700ff;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.igri{
+    color: #151718;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+.ibeyaz{
+    color: #b700ff;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid white;
+    background-color:white;
+}
+.EkipKart>img:hover{
+    opacity: 0.8;
+} 
+.Galeri{
+    background-color: #f2f2f2;
+}
+.figure:hover{
+    opacity: 0.8;
+}
+
+
+.navbar-nav 
+{
+    color: #b700ff;
+}
+ 
+
